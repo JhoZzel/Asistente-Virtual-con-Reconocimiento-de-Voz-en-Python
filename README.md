@@ -1,27 +1,26 @@
-# Asistente Virtual con Reconocimiento de Voz en Python
+# Virtual Assistant with Voice Recognition in Python
 
-Este proyecto implementa un asistente virtual que utiliza reconocimiento de voz para ejecutarse en un gadget de escritorio, desarrollado con Python y Visual Studio Code. Inspirado en tecnologías como Siri y Cortana, ofrece diversas funcionalidades para asistir al usuario en tareas cotidianas.
+This project implements a virtual assistant that uses voice recognition to run on a desktop gadget, developed with Python and Visual Studio Code. Inspired by technologies such as Siri and Cortana, it offers various functionalities to assist the user in everyday tasks.
 
-## Funcionalidades
+## Features
 
-- **Reconocimiento de Voz**: Permite al usuario interactuar mediante comandos de voz.
-- **Consultas en Wikipedia**: Realiza búsquedas en Wikipedia según indicaciones del usuario.
-- **Búsqueda en Google**: Busca términos en Google y muestra los resultados.
-- **Chistes Aleatorios**: Divierte al usuario con chistes aleatorios en español.
-- **Consulta de Clima**: Proporciona información meteorológica de una ciudad específica.
-- **Captura de Pantalla**: Realiza capturas de pantalla y las guarda automáticamente.
-- **Consulta de Precios de Acciones y Criptomonedas**: Obtiene el precio actual de acciones y criptomonedas populares.
-- **Calculadora**: Realiza operaciones matemáticas básicas.
+- **Voice Recognition**: Allows the user to interact using voice commands.
+- **Queries on Wikipedia**: Perform searches on Wikipedia according to user instructions.
+- **Google Search**: Search terms on Google and show the results.
+- **Random Jokes**: Amuse the user with random jokes in Spanish.
+- **Weather Consultation**: Provides weather information for a specific city.
+- **Screenshot**: Take screenshots and save them automatically.
+- **Stock and Cryptocurrency Price Inquiry**: Get the current price of popular stocks and cryptocurrencies.
+- **Calculator**: Perform basic mathematical operations.
 
-## Tecnologías Utilizadas
+## Used technology
 
-- **Python**: Utilizado para el desarrollo del programa.
-- **Tkinter**: Interfaz gráfica para la aplicación de escritorio.
-- **SpeechRecognition**: Biblioteca para el reconocimiento de voz.
-- **pyttsx3**: Biblioteca para la síntesis de voz.
-- **pywhatkit**: Herramienta para interactuar con servicios web como Google y YouTube.
-- **wikipedia-api**: API para acceder a datos de Wikipedia.
-- **requests**: Biblioteca para realizar peticiones HTTP.
-- **yfinance**: API para obtener datos financieros de acciones.
-- **pyautogui**: Automatización de tareas como la captura de pantalla.
-
+- **Python**: Used for the development of the program.
+- **Tkinter**: Graphical interface for the desktop application.
+- **SpeechRecognition**: Library for speech recognition.
+- **pyttsx3**: Library for speech synthesis.
+- **pywhatkit**: Tool to interact with web services such as Google and YouTube.
+- **wikipedia-api**: API to access Wikipedia data.
+- **requests**: Library to make HTTP requests.
+- **yfinance**: API to obtain financial data for stocks.
+- **pyautogui**: Automation of tasks such as screenshots.
